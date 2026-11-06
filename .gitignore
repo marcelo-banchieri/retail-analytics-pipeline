@@ -1,0 +1,15 @@
+# Entorno y cachés de Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Datos pesados: se descargan por separado (ver README), no se suben a GitHub
+data/*.csv
+data/raw/*
+!data/raw/.gitkeep
+
+# Resultados generados por el pipeline
+warehouse/*.db
+exports/
