@@ -93,6 +93,7 @@ Detalle de columnas en [`docs/diccionario_datos.md`](docs/diccionario_datos.md).
 ## Dashboard
 
 Dashboard en Power BI conectado a las tablas que genera el pipeline (`dashboard/retail_dashboard.pbix`).
+> El archivo `.pbix` no se puede previsualizar en GitHub: descárgalo y ábrelo con Power BI Desktop (gratuito, solo Windows). Las capturas de abajo muestran las tres páginas.
 
 **Resumen ejecutivo:** ingreso, devoluciones, ticket promedio y estacionalidad mensual.
 ![Resumen ejecutivo](docs/img/dashboard_1_resumen.png)
