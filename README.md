@@ -1,5 +1,7 @@
 # Retail Analytics Pipeline
 
+![Tests](https://github.com/marcelo-banchieri/retail-analytics-pipeline/actions/workflows/tests.yml/badge.svg)
+
 Pipeline de datos de punta a punta (ingesta → limpieza → modelo estrella → pruebas de calidad → tablas listas para BI) construido sobre el dataset público **Online Retail II** (UCI Machine Learning Repository): 1.067.371 líneas de factura de una tienda online del Reino Unido, entre diciembre de 2009 y diciembre de 2011.
 
 > > **Estado del proyecto:** pipeline, modelo de datos, pruebas, documentación y dashboard de Power BI terminados. Próximos pasos en el [Roadmap](#roadmap).
